@@ -1,16 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "BNSURKQUP8.satisfy.app.rnapp"
+            "BNSURKQUP8.satisfy.app.satify-dev"
         ]
     },
     "applinks": {
         "apps": [
-            "BNSURKQUP8.satisfy.app.rnapp"
+            "BNSURKQUP8.satisfy.app.satify-dev"
         ],
         "details": [
             {
-                "appID": "BNSURKQUP8.satisfy.app.rnapp",
+                "appID": "BNSURKQUP8.satisfy.app.satify-dev",
                 "paths": [
                     "*"
                 ]
