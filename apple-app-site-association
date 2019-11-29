@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "BNSURKQUP8.satisfy.app.rnapp"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "BNSURKQUP8.satisfy.app.rnapp"
+        ],
+        "details": [
+            {
+                "appID": "BNSURKQUP8.satisfy.app.rnapp",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
